@@ -1,3 +1,12 @@
+# 🚀 Team
+
+**Full-Stack Development Team | 10+ Years of Experience**  
+PHP • Node.js • Go | Laravel • Vue • React • Angular  
+HTML • CSS • JS • TS | MySQL • PostgreSQL  
+WordPress • Ionic | Telegram Bots & Integrations  
+
+---
+
 ## 👨‍💻 About Us  
 We are a full-stack development team with **10+ years of experience** delivering web services, enterprise systems, and mobile applications.  
 Our mission is to help businesses and startups succeed through modern technologies and smart digital solutions.  
